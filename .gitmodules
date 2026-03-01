@@ -1,0 +1,12 @@
+[submodule "l10n_do_accounting"]
+	path = l10n_do_accounting
+	url = git@github.com:luisferllub230/l10n_do_accounting.git
+[submodule "dgii_rnc_validation"]
+	path = dgii_rnc_validation
+	url = git@github.com:luisferllub230/dgii_rnc_validation.git
+[submodule "ncf_dgii_validation"]
+	path = ncf_dgii_validation
+	url = git@github.com:luisferllub230/ncf_dgii_validation.git
+[submodule "dgii_reports"]
+	path = dgii_reports
+	url = git@github.com:luisferllub230/dgii_reports.git
