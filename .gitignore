@@ -10,6 +10,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Docker
+Dockerfile
+
+
 # claude
 CLAUDE.md
 .claude/
@@ -21,6 +25,7 @@ odoo
 conf/
 *.yml
 *.sh
+wait-for-psql.py
 
 # Distribution / packaging
 .Python
