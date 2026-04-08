@@ -20,7 +20,7 @@ CLAUDE.md
 
 # odoo
 *.deb
-odoo
+odoo**/
 .vscode
 conf/
 *.yml
