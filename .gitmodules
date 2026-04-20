@@ -10,3 +10,6 @@
 [submodule "dgii_reports"]
 	path = dgii_reports
 	url = git@github.com:luisferllub230/dgii_reports.git
+[submodule "l10n_do_ecf_accounting"]
+	path = l10n_do_ecf_accounting
+	url = git@github.com:DanerickDan/l10n_do_ecf_accounting.git
